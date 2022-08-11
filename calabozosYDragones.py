@@ -1,13 +1,4 @@
-# Este juego, el jugador está en una tierra llena de dragones. 
-# Todos los dragones viven en cuevas junto a sus grandes montones de tesoros
-# encontrados. Algunos dragones son amigables, y compartirán sus tesoros contigo.
-# Otros son codiciosos y hambrientos, y se comerán a cualquiera que entre a su
-# cueva. El jugador se encuentra frente a dos cuevas, una con un dragón amigable
-# y la otra con un dragón hambriento. El jugador tiene que elegir entre las dos.
-# Abre una nueva ventana del editor de archivos haciendo clic en el menú 
-# File (Archivo) ► New Window (Nueva Ventana). En la ventana vacía que aparece 
-# escribe el código fuente y guárdalo como dragón.py. Luego ejecuta el programa
-# pulsando F5.
+# Este juego, el jugador está en una tierra llena de dragones. Todos los dragones viven en cuevas junto a sus grandes montones de tesoros encontrados. Algunos dragones son amigables, y compartirán sus tesoros contigo. Otros son codiciosos y hambrientos, y se comerán a cualquiera que entre a su cueva. El jugador se encuentra frente a dos cuevas, una con un dragón amigable y la otra con un dragón hambriento. El jugador tiene que elegir entre las dos. Abre una nueva ventana del editor de archivos haciendo clic en el menú File (Archivo) ► New Window (Nueva Ventana). En la ventana vacía que aparece escribe el código fuente y guárdalo como dragón.py. Luego ejecuta el programa pulsando F5.
 
 import random
 import time

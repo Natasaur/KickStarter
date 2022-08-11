@@ -1,4 +1,4 @@
-import readline
+#import readline
 
 
 with open("D:\\Mis cosas\\Descargas\\test_data\\sample_test_set_1\\sample_ts1_input.txt","r") as file:
